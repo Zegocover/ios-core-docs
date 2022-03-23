@@ -1,0 +1,4 @@
+## OS X Finder
+*.DS_Store
+*.orig
+*.lock
