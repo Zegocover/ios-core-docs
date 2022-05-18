@@ -1,0 +1,187 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/vagrant/git/Sources/Analytics/DIAnalytics+Metric.swift",
+      "line": 15,
+      "symbol": "DIAnalytics.didReceive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Analytics/DIAnalytics.swift",
+      "line": 91,
+      "symbol": "DIAnalytics.Event.Storage.fileCountSnapshot(id:amount:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Analytics/DIAnalytics.swift",
+      "line": 107,
+      "symbol": "DIAnalytics.Event.Permissions.permissionsStateSnapshot(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Analytics/DIAnalytics.swift",
+      "line": 148,
+      "symbol": "DIAnalytics.Event.Diagnostic",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Analytics/DIAnalytics.swift",
+      "line": 149,
+      "symbol": "DIAnalytics.Event.Diagnostic.backgroundTaskReport(id:duration:expired:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Analytics/DIAnalytics.swift",
+      "line": 150,
+      "symbol": "DIAnalytics.Event.Diagnostic.pushNotificationReport(id:duration:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Analytics/Domain/Analytics/AnalyticsImp.swift",
+      "line": 40,
+      "symbol": "AnalyticsImp.didReceive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Drivit+FeatureFlag.swift",
+      "line": 13,
+      "symbol": "DIFlagService.launchDarkly",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Drivit+FeatureFlag.swift",
+      "line": 18,
+      "symbol": "DIFlagConfig.launchDarkly(key:customAttributes:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Drivit+FeatureFlag.swift",
+      "line": 24,
+      "symbol": "Drivit.FeatureFlag",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/DrivitCore/Domain/DrivitCore+User.swift",
+      "line": 16,
+      "symbol": "User.reports",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/DrivitCore/Domain/DrivitCore.swift",
+      "line": 9,
+      "symbol": "DrivitCore",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Flags/Domain/Flags.swift",
+      "line": 14,
+      "symbol": "FlagsService.launchDarkly",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Flags/Domain/Flags.swift",
+      "line": 19,
+      "symbol": "FlagsConfiguration.launchDarkly(key:customAttributes:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Permissions/DIPermission/DIPermissionManager.swift",
+      "line": 12,
+      "symbol": "DIPermissionsManager",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Permissions/DIPermission/DIPermissionManager.swift",
+      "line": 14,
+      "symbol": "DIPermissionsManager.PermissionID",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Permissions/DIPermission/DIPermissionManager.swift",
+      "line": 15,
+      "symbol": "DIPermissionsManager.PermissionChange",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Permissions/DIPermission/DIPermissionManager.swift",
+      "line": 111,
+      "symbol": "DIPermissionsManager",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Permissions/DIPermission/DIPermissionManager.swift",
+      "line": 136,
+      "symbol": "PermissionObserver",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Permissions/DIPermission/DIPermissionManager.swift",
+      "line": 138,
+      "symbol": "PermissionObserver.Identifier",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Permissions/ZTPermission/Domain/ZTPermission.swift",
+      "line": 12,
+      "symbol": "ZTPermission.OnChangeSubject",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Utilities/NotificationCenter/ZTNotifications.swift",
+      "line": 11,
+      "symbol": "ZTNotifications",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Utilities/NotificationCenter/ZTNotifications.swift",
+      "line": 15,
+      "symbol": "ZTNotifications.Authentication",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Utilities/NotificationCenter/ZTNotifications.swift",
+      "line": 27,
+      "symbol": "ZTNotifications.Sync",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Utilities/NotificationCenter/ZTNotifications.swift",
+      "line": 41,
+      "symbol": "ZTNotifications.Trip",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vagrant/git/Sources/Utilities/NotificationCenter/ZTNotifications.swift",
+      "line": 83,
+      "symbol": "ZTNotifications.Report",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/vagrant/git"
+}
